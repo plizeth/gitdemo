@@ -10,3 +10,6 @@ Scope Managment Plan
 4. Controle Scope
 
 
+Add a new file point2.txt as a test fiel
+
+
